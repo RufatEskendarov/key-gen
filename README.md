@@ -44,7 +44,7 @@ In accordance with https://choosealicense.com/licenses/gpl-3.0/
 
 - HTML5
 - CSS3
-  -JavaScript
+- JavaScript
 
 ## How to Contribute
 
